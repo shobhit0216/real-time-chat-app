@@ -1,5 +1,15 @@
 # Real-Time Chat Application
 
+
+# Real-Time Chat Application
+
+![GitHub](https://img.shields.io/github/license/shobhit0216/real-time-chat-app)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.6-black)
+
+> A full-featured real-time chat application built with the MERN stack and WebSockets
 A full-featured real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and WebSockets using Socket.IO.
 
 ## 🚀 Features
