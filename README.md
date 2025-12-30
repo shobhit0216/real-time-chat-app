@@ -353,9 +353,6 @@ lsof -ti:3000 | xargs kill -9
 3. Build the project: `npm run build`
 4. Deploy the `dist` folder
 
-## 📝 License
-
-This project is open source and available for educational purposes.
 
 ## 👥 Real-World Applications
 
@@ -365,7 +362,7 @@ This chat application architecture is similar to:
 - **Microsoft Teams** - Business communication
 - **Discord** - Community chat
 
-## 🤝 Contributing
+
 
 Contributions, issues, and feature requests are welcome!
 
